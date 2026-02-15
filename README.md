@@ -4,8 +4,7 @@
 This project explores modern computer vision techniques for reconstructing 3D scenes
 from ordinary 2D images where camera calibration is unknown.
 
-The work was carried out during my M.Tech internship and focuses on understanding
-how recent learning-based methods overcome limitations of traditional geometry-based
+The work  focuses on understanding how recent learning-based methods overcome limitations of traditional geometry-based
 reconstruction.
 
 ---
